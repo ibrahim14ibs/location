@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671189866427",
+    "project_id": "location-monitor-32354",
+    "storage_bucket": "location-monitor-32354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671189866427:android:61e7d1d1f2d96589ba569e",
+        "android_client_info": {
+          "package_name": "com.example.location_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxwuvr5QdUh3UHzr9q1nrNQvYC6F0ntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
